@@ -1,0 +1,18 @@
+[
+{
+"id": 1,
+"title": "Kaffir Lime Plantation",
+"category": "South-East Asia",
+"description": "Explore the unique flora and fauna of the Kaffir Lime Plantation.",
+"tags": ["asia", "citrus"],
+"image": "/images/kaffir-lime.webp"
+},
+{
+"id": 2,
+"title": "Bottlebush Plant",
+"category": "Australia",
+"description": "Discover the unique adaptations of the Bottlebush Plant in its native habitat.",
+"tags": ["Australia", "flower"],
+"image": "/images/bottlebush.webp"
+}
+]
